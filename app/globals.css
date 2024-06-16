@@ -1,0 +1,7 @@
+/* Global CSS to set text color to white */
+body {
+  color: black;
+  background-color: #f5f5f5; /* Light gray background color */
+}
+
+/* Additional selectors can be added here if you want to target other elements globally */
